@@ -1,0 +1,4 @@
+[submodule "EscapingPerfection/public"]
+	path = EscapingPerfection/public
+	url = https://github.com/AbsurdAbstract/escapingperfection.github.io.git
+	branch = main

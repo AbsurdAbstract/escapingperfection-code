@@ -1,0 +1,4 @@
+baseURL = 'https://absurdabstract.escapingperfection.github.io/'
+languageCode = 'en-us'
+title = 'Escape Perfection'
+theme = 'SiteTheme'

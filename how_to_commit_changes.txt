@@ -1,0 +1,10 @@
+In order to commit changes for one of these sites. 
+From the hugo folder (ex: EscapingPerfection) run the "hugo" command in powershell
+then cd into public folder.
+commit using:   git commit -m "COMMIT MESSAGE"
+then push with: git push origin main
+
+to view a test site run: hugo server
+with draft pages instead use: hugo server -D
+
+to add a new page, use: hugo new PAGE_DIR/PAGE_NAME.md
