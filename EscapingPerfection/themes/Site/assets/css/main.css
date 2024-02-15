@@ -1,6 +1,8 @@
 body {
-  color: #222;
-  font-family: sans-serif;
+  color: white;
+  background-color: black;
+  font-family: PScript;
+  font-size: 20px;
   line-height: 1.5;
   margin: 1rem;
   max-width: 768px;
